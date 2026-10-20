@@ -1,15 +1,15 @@
 # Site settings
-title: A.P
+title: Jeongwon's Portfolio
 baseurl: "/ap"
-url: "https://kssim.github.io"
+url: "https://choijeongwon427.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
+  name: Jeongwon Choi
   desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
+  email: choijeongwon777@gmail.com
+  selfie: 
 
 # social
 social:
@@ -17,13 +17,13 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: 
   flickr:
-  github: kssim
+  github: choijeongwon427
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: 
   pinterest:
   reddit:
   soundcloud:
@@ -35,7 +35,7 @@ social:
   vimeo:
   wordpress:
   youtube:
-  default_txt: "Follow On"
+  default_txt: 
 
 # Build settings
 markdown: kramdown
