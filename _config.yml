@@ -1,8 +1,8 @@
 # Site settings
 title: Jeongwon's Portfolio
-baseurl: ""
+baseurl: "/choijeongwon427.github.io-"
 url: "https://choijeongwon427.github.io"
-google_analytics: # Tracking ID, e.g. "UA-000000-01"
+google_analytics:
 
 # Author
 author:
