@@ -1,6 +1,6 @@
 # Site settings
 title: Jeongwon's Portfolio
-baseurl: "/ap"
+baseurl: ""
 url: "https://choijeongwon427.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
